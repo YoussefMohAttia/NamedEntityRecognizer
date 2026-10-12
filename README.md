@@ -31,7 +31,7 @@ pip install jupyter numpy scipy scikit-learn tqdm
 jupyter notebook
 ```
 
-Open the HMM notebook or the MEMM notebook, then run the cells in order. The notebook setup is responsible for loading the corpus used by the assignment.
+Open the HMM notebook or the MEMM notebook, then run the cells in order. The setup cells load and prepare the corpus used by each experiment.
 
 ## Author
 
